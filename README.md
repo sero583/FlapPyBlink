@@ -56,4 +56,4 @@ My camera ID was 2, yours is most likely 0. If your camera doesn't work simply r
 
 # Credits
 
-Many credits go out to the original creator [sourabhv](https://github.com/sourabhv) of the base game used in this project.
+Many credits go out to the original creator [sourabhv](https://github.com/sourabhv) of the base game used in this project and to the co-developer [Taylan Özdabak](https://github.com/taylan474).
